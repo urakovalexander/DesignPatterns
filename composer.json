@@ -1,0 +1,21 @@
+{
+    "name": "alexanderurakov/design-patterns",
+    "autoload": {
+        "psr-4": {
+            "DesignPatterns\\": "src/",
+            "Creational\\Factory\\": "src/Creational/Factory/",
+            "Creational\\Builder\\": "src/Creational/Builder/",
+            "Structural\\Composite\\": "src/Structural/Composite/",
+            "Structural\\Decorator\\": "src/Structural/Decorator/",
+            "Structural\\Proxy\\": "src/Structural/Proxy/",
+            "Behavioral\\Command\\": "src/Behavioral/Command/"
+        }
+    },
+    "authors": [
+        {
+            "name": "urakovalexander",
+            "email": "urakov.alexander@gmail.com"
+        }
+    ],
+    "require": {}
+}
