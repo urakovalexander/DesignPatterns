@@ -29,7 +29,7 @@
    ```bash
    cd design-patterns
    
-3. Установите зависимости с помощью Composer:
+3. Установите Composer для автозагрузки классов:
 
     ```bash
     composer install
